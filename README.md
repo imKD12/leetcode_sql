@@ -1,2 +1,2 @@
 # leetcode_sql 
-50 EASY sql question 
+50 sql practice
