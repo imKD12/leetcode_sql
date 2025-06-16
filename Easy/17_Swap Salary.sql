@@ -48,7 +48,6 @@ Output:
 update Salary
 set sex=case 
 when sex='m'then'f'else 'm'
-end
-
+end;
 --using if function
 --update salary set sex=if(sex='m','f','m');
